@@ -1,0 +1,14 @@
+[33mcommit 4d5d83b434b5119a3e5950bba3177e660e5d82d8[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: Cosmopia <niceleesss@gmail.com>
+Date:   Fri Jun 7 13:53:57 2024 +0900
+
+    Initial commit
+
+[33mcommit 1978251a8592b56187d5846c39598dac4c0e2642[m
+Author: Cosmopia <niceleesss@gmail.com>
+Date:   Fri Jun 7 13:44:16 2024 +0900
+
+    Initial commit
+
+ README.md | 1 [32m+[m
+ 1 file changed, 1 insertion(+)
